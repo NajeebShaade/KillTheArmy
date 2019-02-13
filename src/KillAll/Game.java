@@ -22,6 +22,7 @@ public class Game implements Runnable {
 		this.width=width;
 		this.hight=hight;
 		this.title=title;
+		System.out.println("hello najeeb");
 		
 	}
 	
