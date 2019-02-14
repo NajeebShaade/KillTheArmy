@@ -47,7 +47,7 @@ public class Game implements Runnable {
 		g.clearRect(0, 0, width, hight);
 		//Draw here!
 		
-		g.drawImage(testImage, 50, 50, null);
+		//g.drawImage(testImage, 50, 50, null);
 		
 		
 		//end draw
